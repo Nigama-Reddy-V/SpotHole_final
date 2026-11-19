@@ -2,7 +2,7 @@
 
 # SpotHole — Automated Pothole Detection System
 
-SpotHole is a real-time computer vision system for detecting road potholes and surface anomalies from video streams and images. Built on **YOLOv8**, it pairs low-latency object detection with a **FastAPI** inference service and **Supabase** cloud logging for scalable road condition monitoring.
+SpotHole is a real-time computer vision system for detecting road potholes and surface anomalies from images. Built on **YOLOv8**, it pairs low-latency object detection with a **FastAPI** inference service and **Supabase** cloud logging for scalable road condition monitoring.
 
 ## Key Features
 
